@@ -13,9 +13,9 @@ const App = () => {
       <Header toggleSidebar={toggleSidebar} />
       <div className="layout-wrapper">
         <Sidebar isOpen={sidebarOpen} toggleSidebar={toggleSidebar} />
-        <main className="main-layout">
+        {/* <main className="main-layout">
           <DashboardMainContent />
-        </main>
+        </main> */}
       </div>
     </div>
   );
