@@ -23,21 +23,16 @@
   /* Calendar */
   --calendar-active: #3661eb;
   --calendar-bg: #edf0ff;
-
   /* Appointments */
   --appointment-dentist: #dbe4ff;
   --appointment-physio: #e8fff3;
-
   /* Upcoming Cards */
   --upcoming-card-bg: #edf0ff;
-
   /* Icons */
   --icon-gray: #7d8a99;
   --icon-blue: #3661eb;
-
   /* Shadows & Border */
   --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-  --radius: 16px;
 
   /* Font */
   --font-primary: 'Poppins', sans-serif;
